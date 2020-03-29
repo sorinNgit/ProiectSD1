@@ -1,0 +1,16 @@
+Vectorul este: [32, 48, 93, 6, 60, 10, 15, 95, 28, 98, 18, 91, 33, 63, 85, 59, 48, 75, 6, 73]
+<function bubbleSort at 0x019272B0>: [6, 6, 10, 15, 18, 28, 32, 33, 48, 48, 59, 60, 63, 73, 75, 85, 91, 93, 95, 98]
+Vectorul este corect sortat
+0.0
+<function radixSort at 0x018F2FA0>: [6, 6, 10, 15, 18, 28, 32, 33, 48, 48, 59, 60, 63, 73, 75, 85, 91, 93, 95, 98]
+Vectorul este corect sortat
+0.0
+<function mergeSort at 0x019271D8>: [6, 6, 10, 15, 18, 28, 32, 33, 48, 48, 59, 60, 63, 73, 75, 85, 91, 93, 95, 98]
+Vectorul este corect sortat
+0.0
+<function shellSort at 0x01927340>: [6, 6, 10, 15, 18, 28, 32, 33, 48, 48, 59, 60, 63, 73, 75, 85, 91, 93, 95, 98]
+Vectorul este corect sortat
+0.0
+<function quickSort at 0x01927268>: [6, 6, 10, 15, 18, 28, 32, 33, 48, 48, 59, 60, 63, 73, 75, 85, 91, 93, 95, 98]
+Vectorul este corect sortat
+0.0
